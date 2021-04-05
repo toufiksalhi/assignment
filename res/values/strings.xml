@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lamapp</string>
+    <string-array name="g">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+</resources>
